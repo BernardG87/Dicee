@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="button_text">Roll</string>
+    <string name="right_dice">right dice</string>
+    <string name="left_dice">left dice</string>
+    <string name="las_vagas_logo_id">Las Vegas</string>
+
+</resources>
